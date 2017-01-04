@@ -1,0 +1,188 @@
+.contenedor {
+    max-width: 900px;
+    margin: auto;
+    /*text-align: center;*/
+}
+
+
+.contenedor2 {
+    max-width: 700px;
+    margin: auto;
+    /*text-align: center;*/
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+body h1,h2{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+nav {
+	height: 50px;
+    background-color: #042251;
+    color: white;
+}
+
+.lista-nav {
+    float:right;
+    margin: 17px 0px 0px 84px;
+
+}
+
+.lista-nav li{
+    display: inline-block;
+    padding: 0px 5px;
+}
+
+.lista-nav li a{
+    text-decoration: none;
+    color: white;
+}
+
+nav article h2 {
+    display: inline-block;
+    margin: 17px 0px 0px 84px;
+
+}
+
+;
+/* EMPIEZA EL HEADERRRRRRR */
+
+header {
+    background-color: #53bc9b;
+    text-align: center;
+    height: 500px;
+    color: white;
+
+}
+
+header img{
+    padding: 40px 0px;
+
+}
+
+h1{
+    font-size: 40px;
+    text-transform: uppercase;
+    padding: 0px 0px 0px 0px;
+
+}
+
+
+/*EMPIEZA 1ER SECTION */
+
+.portfolio {
+	background-color: white;
+    text-align: center;
+    height: 700px;
+    color: black;
+    text-transform: uppercase;
+    font-size: 40px;
+   
+}
+
+.portfolio article img{
+	height: 200px;
+    width: 280px;
+    display: inline-block;
+    padding: 4px 4px 4px 4px;
+}
+
+.portfolio h2 {
+		padding: 70px 0px 0px 0px;
+}
+
+
+/*EMPIEZA 2DA SECTION */
+
+
+.about{
+	background-color: #53bc9b;
+	text-align: center;
+	color: white;
+	height: 500px;
+}
+
+.about h2{
+	text-transform: uppercase;
+	font-size: 40px;
+	padding: 76px 0px 0px 0px;
+
+}
+
+.about-article p {
+	display: inline-block;
+	width: 50px;
+	width: 250px;
+    padding: 28px 10px 0px 10px;
+}
+
+.boton span,p{
+	display: inline-block;
+    padding: 7px 0px 0px 0px;
+
+}
+
+.boton{
+	border: 1px solid white;
+    height: 32px;
+    width: 174px;
+    border-radius: 6px;
+    display: inline-block;
+    margin: 20px;
+}
+
+/*EMPIEZA 3ER SECTION */
+
+.contact{
+    text-align: center;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+.contact h2{
+	padding: 50px 0px 0px 0px;
+    
+}
+
+form input,textarea{
+    display: inline-block;
+    width: 100%;
+}
+
+
+
+.boton-send{
+    
+    height: 32px;
+    width: 50px;
+    border-radius: 6px;
+    display: inline-block;
+    margin: 8px 0px 0px 0px;    
+    float: left;
+    color: white;
+    background-color: #53bc9b;
+    border:none;
+    font-size: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
